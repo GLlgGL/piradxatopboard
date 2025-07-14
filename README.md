@@ -1,6 +1,6 @@
 # piradxatopboard
 
-These are modified files for Radxa top board fan and screen.
+These are modified files for Radxa top board fan and screen that I am using on a Raspberry Pi 5.
 
 1. Added option to show SSD temperatures on oled.py
 2. Added option to show RAID usage on oled.py
