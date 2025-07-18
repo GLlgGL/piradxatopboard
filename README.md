@@ -14,4 +14,6 @@ If you have this same setup and names you don't need to modify anything else.
 
 Bye.
 
+Watch the video here
+
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/63729245-36b3-40f1-b1a0-253f4da566fe)
