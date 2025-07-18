@@ -89,7 +89,7 @@ class Gpio:
 
 def get_dc(cache={}):
     if misc.conf['run'].value == 0:
-        return 0.999
+        return 0.0
 
     now = time.time()
     if now - cache.get('time', 0) > 30:
